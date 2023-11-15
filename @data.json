@@ -1,0 +1,13 @@
+{
+    "users": {
+        "aaron": {
+            "password": "GingerLSU19",
+            "keys": [],
+
+            "data": {
+                "age": "18",
+                "fav_color": "red"
+            }
+        }
+    }
+}
